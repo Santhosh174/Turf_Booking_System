@@ -1,0 +1,13 @@
+﻿.container .card{
+	background-color:darkcyan;
+	padding:10px;
+	display:flex;
+	flex-direction:column;
+	width:250px;
+}
+.container .card img{
+	height:300px
+}
+.container .card .details button{
+	cursor:pointer
+}

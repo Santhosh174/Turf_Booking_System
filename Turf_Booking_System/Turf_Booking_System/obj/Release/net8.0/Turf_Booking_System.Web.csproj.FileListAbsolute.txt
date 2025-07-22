@@ -1,0 +1,8 @@
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Booking_System\obj\Release\net8.0\Turf_Booking_System.Web.csproj.AssemblyReference.cache
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Booking_System\obj\Release\net8.0\rpswa.dswa.cache.json
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Booking_System\obj\Release\net8.0\Turf_Booking_System.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Booking_System\obj\Release\net8.0\Turf_Booking_System.Web.AssemblyInfoInputs.cache
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Booking_System\obj\Release\net8.0\Turf_Booking_System.Web.AssemblyInfo.cs
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Booking_System\obj\Release\net8.0\Turf_Booking_System.Web.csproj.CoreCompileInputs.cache
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Booking_System\obj\Release\net8.0\Turf_Booking_System.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Booking_System\obj\Release\net8.0\Turf_Booking_System.Web.sourcelink.json

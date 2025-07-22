@@ -1,0 +1,29 @@
+﻿@page "/login"
+@inject IServiceProvider ServiceProvider
+
+@if (_bIsLogin)
+{
+	<h1>Login</h1>
+	<input type="text" @bind="_strLoginName" placeholder="Username" />
+	<br />
+	<input type="password" @bind="_strLoginPassword" placeholder="Password" />
+	<br />
+	<button type="button" @onclick="Login">Submit</button>
+	<p>New User? <button type="button" @onclick="NewUser">Register</button></p>
+	<p style="color:red">@_LoginErrorField</p>
+
+}
+else
+{
+	<h1>Register</h1>
+	<input type="text" @bind="_strRegisterName" placeholder="Username" />
+	<br />
+	<input type="password" @bind="_strRegisterPassword" placeholder="Password" />
+	<br />
+	<button type="button" @onclick="Register">Submit</button>
+	<p>Already Registered? <button type="button" @onclick="OldUser">Login</button></p>
+	<p style="color:red">@_RegisterErrorField</p>
+}
+
+
+

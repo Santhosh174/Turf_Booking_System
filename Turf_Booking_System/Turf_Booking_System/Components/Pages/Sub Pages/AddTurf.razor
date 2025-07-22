@@ -1,0 +1,46 @@
+﻿<div class="form">
+	<h1>AddTurf</h1>
+
+	<input type="text" placeholder="Turf Name" @bind="_strTurfName" />
+	<input type="text" placeholder="District" @bind="_strDistrict" />
+<textarea placeholder="Location" @bind="_strLocation"></textarea>
+	<input type="number" placeholder="Amount Per Hour" min="100" max="10000" @bind="_nAmount" />
+	<div class="Games">
+		<h3>Games</h3>
+		<input type="checkbox" />
+		<label>Cricket</label><br />
+		<input type="checkbox" />
+		<label>Football</label>
+		<br />
+		<input type="checkbox" />
+		<label>Volly Ball</label>
+		<br />
+		<input type="checkbox" />
+		<label>Basketball</label>
+		<br />
+		<input type="checkbox" />
+		<label>Badmiton</label>
+		<br />
+	</div>
+
+	<div class="Games">
+		<h3>Facilties</h3>
+		<input type="checkbox" />
+		<label>Water</label><br />
+		<input type="checkbox" />
+		<label>Restroom</label>
+		<br />
+		<input type="checkbox" />
+		<label>Gym</label>
+		<br />
+		<input type="checkbox" />
+		<label>Rooftop</label>
+		<br />
+	</div>
+	<button type="button">Add</button>
+</div>
+
+
+@code {
+
+}
