@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Turf_Common\Turf_Booking_System.Common.csproj" />
+    <ProjectReference Include="..\Turf_Data\Turf_Booking_System.Data.csproj" />
+    <ProjectReference Include="..\Turf_Logic\Turf_Booking_System.Logic.csproj" />
+  </ItemGroup>
+
+</Project>

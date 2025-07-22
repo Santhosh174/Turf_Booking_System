@@ -1,0 +1,54 @@
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Logic\bin\Debug\net8.0\Turf_Booking_System.Logic.deps.json
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Logic\bin\Debug\net8.0\Turf_Booking_System.Logic.dll
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Logic\bin\Debug\net8.0\Turf_Booking_System.Logic.pdb
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Logic\bin\Debug\net8.0\Turf_Booking_System.Common.dll
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Logic\bin\Debug\net8.0\Turf_Booking_System.Data.dll
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Logic\bin\Debug\net8.0\Turf_Booking_System.Common.pdb
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Logic\bin\Debug\net8.0\Turf_Booking_System.Data.pdb
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Booking_System.Logic.csproj.AssemblyReference.cache
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Booking_System.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Booking_System.Logic.AssemblyInfoInputs.cache
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Booking_System.Logic.AssemblyInfo.cs
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Booking_System.Logic.csproj.CoreCompileInputs.cache
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Booking_System.Logic.sourcelink.json
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Boo.5E9EE7CD.Up2Date
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Booking_System.Logic.dll
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\refint\Turf_Booking_System.Logic.dll
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Booking_System.Logic.pdb
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\ref\Turf_Booking_System.Logic.dll
+C:\Santhosh_Azure\Turf Booking System\Turf_Booking_System\Turf_Logic\bin\Debug\net8.0\Turf_Booking_System.Logic.deps.json
+C:\Santhosh_Azure\Turf Booking System\Turf_Booking_System\Turf_Logic\bin\Debug\net8.0\Turf_Booking_System.Logic.dll
+C:\Santhosh_Azure\Turf Booking System\Turf_Booking_System\Turf_Logic\bin\Debug\net8.0\Turf_Booking_System.Logic.pdb
+C:\Santhosh_Azure\Turf Booking System\Turf_Booking_System\Turf_Logic\bin\Debug\net8.0\Turf_Booking_System.Common.dll
+C:\Santhosh_Azure\Turf Booking System\Turf_Booking_System\Turf_Logic\bin\Debug\net8.0\Turf_Booking_System.Data.dll
+C:\Santhosh_Azure\Turf Booking System\Turf_Booking_System\Turf_Logic\bin\Debug\net8.0\Turf_Booking_System.Common.pdb
+C:\Santhosh_Azure\Turf Booking System\Turf_Booking_System\Turf_Logic\bin\Debug\net8.0\Turf_Booking_System.Data.pdb
+C:\Santhosh_Azure\Turf Booking System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Booking_System.Logic.csproj.AssemblyReference.cache
+C:\Santhosh_Azure\Turf Booking System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Booking_System.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Santhosh_Azure\Turf Booking System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Booking_System.Logic.AssemblyInfoInputs.cache
+C:\Santhosh_Azure\Turf Booking System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Booking_System.Logic.AssemblyInfo.cs
+C:\Santhosh_Azure\Turf Booking System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Booking_System.Logic.csproj.CoreCompileInputs.cache
+C:\Santhosh_Azure\Turf Booking System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Booking_System.Logic.sourcelink.json
+C:\Santhosh_Azure\Turf Booking System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Boo.5E9EE7CD.Up2Date
+C:\Santhosh_Azure\Turf Booking System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Booking_System.Logic.dll
+C:\Santhosh_Azure\Turf Booking System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\refint\Turf_Booking_System.Logic.dll
+C:\Santhosh_Azure\Turf Booking System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Booking_System.Logic.pdb
+C:\Santhosh_Azure\Turf Booking System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\ref\Turf_Booking_System.Logic.dll
+C:\Santhosh_GitHub\Turf_Booking_System\Turf_Booking_System\Turf_Logic\bin\Debug\net8.0\Turf_Booking_System.Logic.deps.json
+C:\Santhosh_GitHub\Turf_Booking_System\Turf_Booking_System\Turf_Logic\bin\Debug\net8.0\Turf_Booking_System.Logic.dll
+C:\Santhosh_GitHub\Turf_Booking_System\Turf_Booking_System\Turf_Logic\bin\Debug\net8.0\Turf_Booking_System.Logic.pdb
+C:\Santhosh_GitHub\Turf_Booking_System\Turf_Booking_System\Turf_Logic\bin\Debug\net8.0\Turf_Booking_System.Common.dll
+C:\Santhosh_GitHub\Turf_Booking_System\Turf_Booking_System\Turf_Logic\bin\Debug\net8.0\Turf_Booking_System.Data.dll
+C:\Santhosh_GitHub\Turf_Booking_System\Turf_Booking_System\Turf_Logic\bin\Debug\net8.0\Turf_Booking_System.Common.pdb
+C:\Santhosh_GitHub\Turf_Booking_System\Turf_Booking_System\Turf_Logic\bin\Debug\net8.0\Turf_Booking_System.Data.pdb
+C:\Santhosh_GitHub\Turf_Booking_System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Booking_System.Logic.csproj.AssemblyReference.cache
+C:\Santhosh_GitHub\Turf_Booking_System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Booking_System.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Santhosh_GitHub\Turf_Booking_System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Booking_System.Logic.AssemblyInfoInputs.cache
+C:\Santhosh_GitHub\Turf_Booking_System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Booking_System.Logic.AssemblyInfo.cs
+C:\Santhosh_GitHub\Turf_Booking_System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Booking_System.Logic.csproj.CoreCompileInputs.cache
+C:\Santhosh_GitHub\Turf_Booking_System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Booking_System.Logic.sourcelink.json
+C:\Santhosh_GitHub\Turf_Booking_System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Boo.5E9EE7CD.Up2Date
+C:\Santhosh_GitHub\Turf_Booking_System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Booking_System.Logic.dll
+C:\Santhosh_GitHub\Turf_Booking_System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\refint\Turf_Booking_System.Logic.dll
+C:\Santhosh_GitHub\Turf_Booking_System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\Turf_Booking_System.Logic.pdb
+C:\Santhosh_GitHub\Turf_Booking_System\Turf_Booking_System\Turf_Logic\obj\Debug\net8.0\ref\Turf_Booking_System.Logic.dll

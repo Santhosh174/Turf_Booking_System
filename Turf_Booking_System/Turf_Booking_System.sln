@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turf_Booking_System.Web", "Turf_Booking_System\Turf_Booking_System.Web.csproj", "{4BF241D3-1484-481A-9EA9-21CB83AD14C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turf_Booking_System.Data", "Turf_Data\Turf_Booking_System.Data.csproj", "{C3DFAD73-FC2A-409F-A709-1AAC89145C98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turf_Booking_System.Logic", "Turf_Logic\Turf_Booking_System.Logic.csproj", "{EA0D27A2-3801-4919-8F84-3A0B0E602332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turf_Booking_System.Common", "Turf_Common\Turf_Booking_System.Common.csproj", "{853EDADC-61B9-4EDE-ACDF-F5F8F18C94BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turf_Booking_System_Test", "Turf_Booking_System_Test\Turf_Booking_System_Test.csproj", "{E5CE824A-552A-40E9-B61F-BC31489F99C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BF241D3-1484-481A-9EA9-21CB83AD14C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF241D3-1484-481A-9EA9-21CB83AD14C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF241D3-1484-481A-9EA9-21CB83AD14C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF241D3-1484-481A-9EA9-21CB83AD14C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3DFAD73-FC2A-409F-A709-1AAC89145C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DFAD73-FC2A-409F-A709-1AAC89145C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DFAD73-FC2A-409F-A709-1AAC89145C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DFAD73-FC2A-409F-A709-1AAC89145C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA0D27A2-3801-4919-8F84-3A0B0E602332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA0D27A2-3801-4919-8F84-3A0B0E602332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA0D27A2-3801-4919-8F84-3A0B0E602332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA0D27A2-3801-4919-8F84-3A0B0E602332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{853EDADC-61B9-4EDE-ACDF-F5F8F18C94BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853EDADC-61B9-4EDE-ACDF-F5F8F18C94BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853EDADC-61B9-4EDE-ACDF-F5F8F18C94BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853EDADC-61B9-4EDE-ACDF-F5F8F18C94BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5CE824A-552A-40E9-B61F-BC31489F99C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5CE824A-552A-40E9-B61F-BC31489F99C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5CE824A-552A-40E9-B61F-BC31489F99C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5CE824A-552A-40E9-B61F-BC31489F99C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A1B3060-97AC-4BA0-B4BA-430CB5714191}
+	EndGlobalSection
+EndGlobal

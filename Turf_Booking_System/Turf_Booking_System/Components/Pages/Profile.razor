@@ -1,0 +1,39 @@
+﻿@page "/profile"
+
+
+<h1>Name: Sample User</h1>
+<h2>Bookings</h2>
+<h4>Current Bookings \/</h4>
+<h4>Bookings History \/</h4>
+<a href="/settings">Settings</a>
+<InputFile OnChange="FileUploaded" multiple/>
+<p>@ErrorMessage</p>
+
+@code{
+    private string ErrorMessage{ get; set; }
+    const int MAX_FILESIZE = 5000 * 1024;
+    public async Task FileUploaded(InputFileChangeEventArgs e)
+    {
+    var browserFile = e.File;
+
+        if (browserFile != null)
+        {
+            try
+            {
+                var fileStream = browserFile.OpenReadStream(MAX_FILESIZE);
+               
+    var extension = Path.GetExtension(browserFile.Name);
+                var nf = System.IO.Directory.CreateDirectory("./wwwroot/Img/my folder2");
+    var targetFilePath =  nf +"/" + "sample1" +  extension;
+
+    var destinationStream = new FileStream(targetFilePath, FileMode.Create);
+    await fileStream.CopyToAsync(destinationStream);
+    destinationStream.Close();
+            }
+            catch (Exception exception)
+            {
+                ErrorMessage = exception.Message;
+            }
+        }
+    }
+}

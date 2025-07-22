@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Turf_Logic/1.0.0": {
+        "dependencies": {
+          "Turf_Common": "1.0.0",
+          "Turf_Data": "1.0.0"
+        },
+        "runtime": {
+          "Turf_Logic.dll": {}
+        }
+      },
+      "Turf_Common/1.0.0": {
+        "runtime": {
+          "Turf_Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Turf_Data/1.0.0": {
+        "dependencies": {
+          "Turf_Common": "1.0.0"
+        },
+        "runtime": {
+          "Turf_Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Turf_Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Turf_Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Turf_Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

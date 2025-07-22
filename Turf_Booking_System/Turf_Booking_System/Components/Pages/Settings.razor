@@ -1,0 +1,41 @@
+﻿@page "/settings"
+@using Turf_Booking_System.Web.Components.Pages.Sub_Pages;
+
+<h1>Settings</h1>
+<button type="button" @onclick="EditOption">Edit Name</button>
+<button type="button" @onclick="AddTurfOption">Add Turf</button>
+<button type="button" @onclick="LogOutOption">Log Out</button>
+
+
+@switch (IsView)
+{
+	case "Edit":
+		<EditName />
+		break;
+
+	case "Turf":
+		<AddTurf />
+		break;
+
+	default:
+		break;
+
+}
+
+@code {
+	private string? IsView{ get; set; }
+
+
+	private void EditOption()
+	{
+		IsView = "Edit";
+	}
+	private void AddTurfOption()
+	{
+		IsView = "Turf";
+	}
+	private void LogOutOption()
+	{
+		IsView = "LogOut";
+	}
+}

@@ -1,0 +1,12 @@
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Common\bin\Debug\net8.0\Turf_Common.deps.json
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Common\bin\Debug\net8.0\Turf_Common.dll
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Common\bin\Debug\net8.0\Turf_Common.pdb
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Common\obj\Debug\net8.0\Turf_Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Common\obj\Debug\net8.0\Turf_Common.AssemblyInfoInputs.cache
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Common\obj\Debug\net8.0\Turf_Common.AssemblyInfo.cs
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Common\obj\Debug\net8.0\Turf_Common.csproj.CoreCompileInputs.cache
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Common\obj\Debug\net8.0\Turf_Common.sourcelink.json
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Common\obj\Debug\net8.0\Turf_Common.dll
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Common\obj\Debug\net8.0\refint\Turf_Common.dll
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Common\obj\Debug\net8.0\Turf_Common.pdb
+C:\Santhosh_Azure\Blazor\Turf-Booking-System\Turf_Booking_System\Turf_Common\obj\Debug\net8.0\ref\Turf_Common.dll

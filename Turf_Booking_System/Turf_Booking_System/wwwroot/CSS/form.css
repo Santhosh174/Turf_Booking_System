@@ -1,0 +1,21 @@
+﻿.form{
+	margin:50px;
+	display:flex;
+	flex-direction:column;
+	row-gap:10px;
+	background-color:#d0d0d0;
+	padding:20px;
+	width:40vw
+}
+
+.form input[type=text],input[type=number],textarea{
+	padding:5px;
+	width:50%
+}
+.form button{
+	background-color:#000000;
+	color:white;
+	padding:5px;
+	width:10%;
+	cursor:pointer
+}
